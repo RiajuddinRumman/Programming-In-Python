@@ -65,3 +65,5 @@ df = df.rename(columns = {
     "Student" : "Name",
     "Department" : "Dept"
 })
+
+#df = pd.read_csv("SL Flood Risk.csv")
